@@ -18,17 +18,15 @@ You'll learn to:
 ### Who is this course for?
 This course is for beginners to TypeScript or programmers who want to get a better understanding of TypeScript fundamentals.  The modules in this course assume that you already have an understanding of JavaScript ES6.
 
-## Installation Instructions
+## Getting Set Up
 
-### Tech
-
-(1) IDE of your choice:
+#### IDE of your choice
 We'll be using VS Code in the examples, but you can use any IDE you'd like
 
-(2) TypeScript:
+#### TypeScript
+And of course, we'll need TypeScript installed for this project.
 
-#### Installing TypeScript from your terminal
-You will need a copy of Node.js as an environment to run the package. Then you use a dependency manager like npm, yarn or pnpm to download TypeScript into your project.  Then run one of the commands, depending on which package manager you are using:
+You will need a copy of Node.js as an environment to run the TypeScript package. Then you use a dependency manager like npm, yarn or pnpm to download TypeScript into your project.  Run one of the commands below, depending on which package manager you are using:
 
     npm (from the root of your project)
     `npm install typescript --save-dev`
